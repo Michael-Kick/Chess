@@ -1,7 +1,3 @@
-from array import ArrayType
-from operator import index
-
-
 def print_chess_board(board):
     row: str = ""
     counter: int = 1
